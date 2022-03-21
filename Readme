@@ -1,0 +1,3 @@
+Plant Monitor
+To clone - git clone https://github.com/BenjiAlwis/PlantMonitor.git
+To run the application - python3 monitor.py
